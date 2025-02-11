@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>    👋 Hi, I’m Angela mwangi<br>    👀 I’m interested in ...<br>    🌱 I’m currently learning ... Python, R and UI design<br>    💞️ I’m looking to collaborate on ... Python and UI design<br>    📫 How to reach me ... angela.m.mwangi@gmail.com<br>    😄 Pronouns: ...she/her<br>    ⚡ Fun fact: ...Elephants are scared of bees<br><br>
+<br>    👋 Hi, I’m Angela mwangi<br>    👀 I’m interested in ...<br>    🌱 I’m currently learning ... Python|R|JSON|XMLand UI design<br>    💞️ I’m looking to collaborate on ... Python and UI design<br>    📫 How to reach me ... angela.m.mwangi@gmail.com<br>    😄 Pronouns: ...she/her<br>    ⚡ Fun fact: ...Elephants are scared of bees<br><br>
 
 
 
